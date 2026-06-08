@@ -1,0 +1,33 @@
+AMRIT RAJ
+BCA 2nd Year Student | 18 Years Old
+Email: Rajamrit85045@gmail.com
+
+CAREER OBJECTIVE
+Motivated BCA 2nd-year student interested in web development, programming,
+database basics, and practical software projects. Looking for beginner-friendly
+opportunities, internships, and learning-based projects to improve technical skills.
+
+EDUCATION
+Bachelor of Computer Applications
+BCA 2nd Year Student
+
+SKILLS
+- HTML, CSS, and JavaScript basics
+- C Programming
+- Database basics
+- Problem solving
+- Communication and teamwork
+
+PROJECT
+Queen Shop
+A live shopping website project created to practice web design, layout,
+responsive structure, and online store presentation.
+
+Live Link:
+https://queenshop1.netlify.app/
+
+CURRENTLY LEARNING
+- Web development
+- Programming logic
+- Database concepts
+- Real-world project building
